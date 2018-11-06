@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="caculate_bmi">Caculate BMI</string>
+    <string name="help">Help</string>
+</resources>
